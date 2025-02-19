@@ -19,7 +19,7 @@ This repository is organized as a monorepo with two main folders:
 - Secure API endpoints protected by token‑based authentication.
 
 ## Screenshot
-![Screenshot of the Kanban Board](/client/public/Module_14_SS.png)
+![Screenshot of the Kanban Board](/client/public/Krazy_Kanban_SS.png)
 
 
 
